@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		72692D222FAB10DB00723000 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 72692D182FAB10DB00723000 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		72692D182FAB10DB00723000 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		72EBF2952EDEBB9F00573DA5 /* LuckyTokki.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LuckyTokki.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72EBF2C82EDED66000573DA5 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -46,6 +51,7 @@
 		72EBF28C2EDEBB9F00573DA5 = {
 			isa = PBXGroup;
 			children = (
+				72692D182FAB10DB00723000 /* README.md */,
 				72EBF2972EDEBB9F00573DA5 /* LuckyTokki */,
 				72EBF2C72EDED66000573DA5 /* Frameworks */,
 				72EBF2962EDEBB9F00573DA5 /* Products */,
@@ -132,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72692D222FAB10DB00723000 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
