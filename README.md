@@ -1,5 +1,6 @@
 <p align="center">
   <img width="480" alt="AppIcon" src="https://github.com/user-attachments/assets/32279408-d9fd-4d2f-a130-709f26c2f789" />
+  <img width="1080" alt="202212007_p6960" src="https://github.com/user-attachments/assets/066f8424-2629-4d57-a454-11965ccf8db6" />
 </p>
 
 # 🍀 LuckyTokki (러키토끼) 🐰
