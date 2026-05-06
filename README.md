@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/AppIcon.png" alt="App Icon" width="480"/>
+  <img width="480" alt="AppIcon" src="https://github.com/user-attachments/assets/32279408-d9fd-4d2f-a130-709f26c2f789" />
 </p>
 
 # LuckyTokki (러키토끼)
